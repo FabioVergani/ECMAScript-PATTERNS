@@ -1,4 +1,0 @@
-ECMAScript-PATTERNS
-===================
-
-ECMAScript PATTERNS
